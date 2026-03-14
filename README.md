@@ -5,7 +5,7 @@ Finn is an intelligent financial tracking application designed to help users man
 
 ## 📸 Preview
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_1" width="45%" />
+  <img src="https://github.com/Archi1323/Finn-AI-Advisor/blob/main/screenshots/Screenshot%202026-03-14%20143505.png?raw=true" width="45%" />
   <img src="YOUR_IMAGE_LINK_2" width="45%" />
 </p>
 <p align="center">
